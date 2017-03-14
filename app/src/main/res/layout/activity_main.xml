@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context="com.example.android.bucharestcard.MainActivity">
+=======
+    tools:context="com.example.android.happybirthday.MainActivity">
+>>>>>>> origin/master
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+<<<<<<< HEAD
+        android:src="@drawable/mogosoaiapalace"
+        android:scaleType="centerCrop"
+        />
+=======
+        android:src="@drawable/happybirthday"
+        android:scaleType="centerCrop"
+    />
+>>>>>>> origin/master
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+<<<<<<< HEAD
+        android:textSize="42sp"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@android:color/holo_green_light"
+        android:background="#8000"
+        android:padding="20dp"
+        android:text="Visit Bucharest!"
+        />
+=======
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:padding="20dp"
+        android:text="Happy Birthday Droid!"
+    />
+>>>>>>> origin/master
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+<<<<<<< HEAD
+        android:layout_centerInParent="true"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="italic"
+        android:textColor="@android:color/holo_green_light"
+        android:background="#8000"
+        android:padding="20dp"
+        android:rotation="50"
+        android:text="Time to explore!"
+        />
+=======
+        android:layout_alignParentBottom="true"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:padding="20dp"
+        android:text="From, Razvan!"
+    />
+>>>>>>> origin/master
+
+</RelativeLayout>
