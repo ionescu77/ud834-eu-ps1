@@ -4,13 +4,8 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-<<<<<<< HEAD
         applicationId "com.example.android.bucharestcard"
         minSdkVersion 21
-=======
-        applicationId "com.example.android.happybirthday"
-        minSdkVersion 15
->>>>>>> origin/master
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"

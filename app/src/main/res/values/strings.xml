@@ -1,8 +1,4 @@
 <resources>
-<<<<<<< HEAD
     <string name="app_name">Bucharest Card</string>
     <string name="google_android_map_api_key">AIzaSyBTEOoc6Qr64blO0TqcOSsjV6XFbQAmJzY</string>
-=======
-    <string name="app_name">Happy Birthday</string>
->>>>>>> origin/master
 </resources>
